@@ -5,7 +5,7 @@ Este repositório contém a proposta de aprimoramento da landing page existente 
 ---
 
 ## 📝 **Objetivos do Projeto**
-O objetivo principal é implementar melhorias visuais, funcionais e de acessibilidade na landing page existente, com foco em responsividade, interatividade e usabilidade.
+O objetivo principal é implementar melhorias visuais, funcionais e de acessibilidade na landing page existente, com foco em responsividade, interatividade e usabilidade. O seguinte site está disponível no link: https://minsonawoon.github.io/Gaming-Website-Landing-Page/
 
 ---
 
